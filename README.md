@@ -1,3 +1,4 @@
 # branchprotectiontest
-
-- test
+ - New commit
+ - One more to show commit history
+ - test
