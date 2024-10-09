@@ -1,4 +1,4 @@
 # branchprotectiontest
  - New commit
  - One more to show commit history
- - [ ] checklist
+ - [X] checklist
