@@ -1,35 +1,21 @@
-#### Description
-Write a short description of the issue.
+# Bug Report
 
-##### Expected behavior.
-(Describe expected behaviour here)
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-##### Actual behavior.
-(Describe actual behaviour here)
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '...'
+3. See the error
 
-##### Steps to reproduce the problem.
-(Describe the steps to reproduce the problem here. A [jsFiddle](https://jsfiddle.net/froala/cgu0dmxh/) is awesome when possible.)
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-##### Editor version.
-If you don't know it, please see https://wysiwyg-editor.froala.help/hc/en-us/articles/360000717049-How-can-I-find-my-editor-version-.
+**Environment (please complete the following information):**
+- OS: [e.g. Windows 10, macOS, Linux]
+- Browser: [e.g. Chrome, Firefox]
+- Version: [e.g. 1.2.3]
 
-##### Screen resolution.
-(Screen resolution/window size details for UI-related issues and other applicable cases)
-
-##### OS and version.
-(OS name and version here)
-
-##### Browser and version.
-(Browser name and version here)
-
-##### Recording
-(A recording showing how to reproduce the problem)
-
-#### Additional resources
-Upload videos / images that might help to clarify the questions.
-
-##### Support Ticket link.
-(A zendesk ticket link)
-
-#### Related issue
-Enter links to related issues to the ticket. (e.g. https://github.com/froala/wysiwyg-editor/issues/100)
+**Additional context**
+Add any other context about the problem here.
